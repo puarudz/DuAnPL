@@ -13,7 +13,7 @@ namespace DuAn1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void cong_Click(object sender, EventArgs e)
