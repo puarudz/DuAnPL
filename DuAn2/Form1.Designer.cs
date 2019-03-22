@@ -150,6 +150,7 @@
             this.cong.TabIndex = 12;
             this.cong.Text = "Cộng";
             this.cong.UseVisualStyleBackColor = true;
+            this.cong.Click += new System.EventHandler(this.cong_Click);
             // 
             // tru
             // 

@@ -15,5 +15,10 @@ namespace DuAn1
         {
             InitializeComponent();
         }
+
+        private void cong_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
